@@ -1,0 +1,847 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"test",
+				"tester1"
+			],
+			[
+				"conn",
+				"connection"
+			],
+			[
+				"connec",
+				"connect"
+			],
+			[
+				"t",
+				"th\tTag"
+			],
+			[
+				"get",
+				"get_text"
+			],
+			[
+				"user",
+				"users_blueprint"
+			],
+			[
+				"new",
+				"new_path"
+			],
+			[
+				"sqlit",
+				"sqlite_db"
+			],
+			[
+				"con",
+				"connect_db"
+			],
+			[
+				"sq",
+				"sqllite_db"
+			],
+			[
+				"co",
+				"config"
+			],
+			[
+				"log",
+				"login"
+			],
+			[
+				"s",
+				"flask_sqlalchemy"
+			],
+			[
+				"Scraper",
+				"Scraper"
+			],
+			[
+				"bor",
+				"border-style\tproperty"
+			],
+			[
+				"assert",
+				"assertIn"
+			],
+			[
+				"ass",
+				"assertEquals"
+			],
+			[
+				"app",
+				"application"
+			],
+			[
+				"register",
+				"register_blueprint"
+			],
+			[
+				"err",
+				"errorhandler"
+			],
+			[
+				"a",
+				"app"
+			],
+			[
+				"asser",
+				"assertEquals"
+			],
+			[
+				"p",
+				"project"
+			],
+			[
+				"b",
+				"bcrypt"
+			],
+			[
+				"delete",
+				"delete"
+			],
+			[
+				"create",
+				"create_admin_user"
+			],
+			[
+				"python",
+				"python101"
+			],
+			[
+				"crea",
+				"create_task"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"la",
+				"larger\tfont-size"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"min",
+				"min-width\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"fo",
+				"font-size\tproperty"
+			],
+			[
+				"team",
+				"teams"
+			],
+			[
+				"class",
+				"class_"
+			],
+			[
+				"te",
+				"test_games"
+			],
+			[
+				"find",
+				"find_all"
+			],
+			[
+				"tasks",
+				"tasks_blueprint"
+			],
+			[
+				"cre",
+				"create_admin_user"
+			],
+			[
+				"del",
+				"delete"
+			],
+			[
+				"re",
+				"realpython"
+			],
+			[
+				"m",
+				"michael"
+			],
+			[
+				"tran",
+				"transition\tproperty"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"bord",
+				"border-radius\tproperty"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"AP",
+				"API_KEY"
+			],
+			[
+				"API",
+				"API_KEY"
+			],
+			[
+				"padd",
+				"padding-top\tproperty"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"login",
+				"login_required"
+			],
+			[
+				"posted",
+				"posted_date"
+			],
+			[
+				"pri",
+				"priority"
+			],
+			[
+				"ne",
+				"new_user"
+			],
+			[
+				"backgro",
+				"background-color\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"task",
+				"tasks"
+			],
+			[
+				"marg",
+				"margin\tproperty"
+			],
+			[
+				"e",
+				"em\tTag"
+			],
+			[
+				"red",
+				"redirect"
+			],
+			[
+				"Pas",
+				"PasswordField"
+			],
+			[
+				"Pass",
+				"Password"
+			],
+			[
+				"Pa",
+				"password"
+			],
+			[
+				"passw",
+				"PasswordField"
+			],
+			[
+				"D",
+				"DATABASE_PATH"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"word",
+				"word_user"
+			],
+			[
+				"Da",
+				"DataRequired"
+			],
+			[
+				"com",
+				"commit"
+			],
+			[
+				"clo",
+				"close"
+			],
+			[
+				"logi",
+				"login_required"
+			],
+			[
+				"clos",
+				"closed_tasks"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"pro",
+				"priority"
+			],
+			[
+				"ran",
+				"random1"
+			],
+			[
+				"random",
+				"random1"
+			],
+			[
+				"mar",
+				"margin\tproperty"
+			],
+			[
+				"inl",
+				"inline-block\tdisplay"
+			],
+			[
+				"connect",
+				"connect_db"
+			],
+			[
+				"logged",
+				"logged_in"
+			],
+			[
+				"d",
+				"div\tTag"
+			],
+			[
+				"help",
+				"help_button"
+			],
+			[
+				"discre",
+				"discrep_loaded"
+			],
+			[
+				"disc",
+				"discrep_loaded"
+			],
+			[
+				"report",
+				"report_loaded"
+			],
+			[
+				"loa",
+				"load_unplaced_file_name"
+			],
+			[
+				"grid",
+				"grid_forget"
+			],
+			[
+				"g",
+				"grid"
+			],
+			[
+				"c",
+				"csv_warning"
+			],
+			[
+				"compare",
+				"compareReports"
+			],
+			[
+				"out",
+				"output_report"
+			],
+			[
+				"save",
+				"saveFile"
+			],
+			[
+				"su",
+				"Submit"
+			],
+			[
+				"file",
+				"filepath"
+			],
+			[
+				"open",
+				"open_button"
+			],
+			[
+				"matc",
+				"matches"
+			],
+			[
+				"rsl",
+				"rsl_DiscrepDB"
+			],
+			[
+				"cop",
+				"copyRequired_DiscrepDB"
+			],
+			[
+				"un",
+				"unplaced_list"
+			],
+			[
+				"unp",
+				"unplaced_list"
+			],
+			[
+				"dis",
+				"discrep_rep"
+			],
+			[
+				"unplacedSpo",
+				"unplacedSpots_DiscrepDB"
+			],
+			[
+				"match",
+				"match_count"
+			],
+			[
+				"adCop",
+				"adCopy_list"
+			],
+			[
+				"adCo",
+				"adCopy_list"
+			],
+			[
+				"ad",
+				"adCopy_DiscrepDB"
+			],
+			[
+				"curr",
+				"current_report"
+			],
+			[
+				"copy",
+				"copy_req"
+			],
+			[
+				"unplacedS",
+				"unplacedSpots_DiscrepDB"
+			],
+			[
+				"fin",
+				"final_report"
+			],
+			[
+				"unplaced",
+				"unplacedSpots_DiscrepDB"
+			],
+			[
+				"discrep_",
+				"discrep_rep"
+			],
+			[
+				"discrep",
+				"discrep_rep"
+			],
+			[
+				"enable",
+				"enableEclipse"
+			],
+			[
+				"load",
+				"loadDiscrep"
+			],
+			[
+				"fi",
+				"final_discrep"
+			],
+			[
+				"copy_",
+				"copy_required_final"
+			],
+			[
+				"Load",
+				"loadDiscrep"
+			],
+			[
+				"adCopy",
+				"adCopy_reader"
+			],
+			[
+				"discr",
+				"discrep_list"
+			],
+			[
+				"csv",
+				"csv_file"
+			],
+			[
+				"loaded",
+				"loaded_file"
+			],
+			[
+				"exec",
+				"execute"
+			],
+			[
+				"cone",
+				"connection"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"About"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 164.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Burger Guy/git/pjconnolly12/django-quickstart"
+	],
+	"file_history":
+	[
+		"/C/Users/Burger Guy/git/pjconnolly12/Predictor/project/templates/standings.html",
+		"/C/Users/Burger Guy/git/pjconnolly12/Predictor/project/users/views.py",
+		"/C/Users/Burger Guy/git/pjconnolly12/Predictor/project/models.py",
+		"/C/Users/Burger Guy/git/pjconnolly12/Predictor/project/_config.py",
+		"/C/Users/Burger Guy/git/pjconnolly12/Predictor/db_create.py",
+		"/C/Users/Burger Guy/git/pjconnolly12/Flasktaskr/project/templates/tasks.html",
+		"/C/Users/Burger Guy/git/pjconnolly12/Flasktaskr/project/tasks/views.py",
+		"/C/Users/Burger Guy/git/pjconnolly12/Predictor/db_migrate.py",
+		"/C/Users/Burger Guy/git/pjconnolly12/Predictor/project/templates/register.html",
+		"/C/Users/Burger Guy/git/pjconnolly12/Predictor/project/users/forms.py",
+		"/C/Users/Burger Guy/git/pjconnolly12/RealPython/client-side/cars.json",
+		"/C/Users/Burger Guy/git/pjconnolly12/RealPython/client-side/json-parsing.py",
+		"/C/Users/Burger Guy/git/pjconnolly12/RealPython/client-side/cars.xml",
+		"/C/Users/Burger Guy/git/pjconnolly12/RealPython/client-side/xml-parsing.py",
+		"/C/Users/Burger Guy/git/pjconnolly12/RealPython/client-side/test_requests.html",
+		"/C/Users/Burger Guy/git/pjconnolly12/RealPython/client-side/retrieve.py",
+		"/C/Users/Burger Guy/git/pjconnolly12/Odds Scraper/Soccer Odds Email.py",
+		"/C/Users/Burger Guy/git/pjconnolly12/Predictor/project/templates/selections.html",
+		"/C/Users/Burger Guy/git/pjconnolly12/Flasktaskr/project/tasks/forms.py",
+		"/C/Users/Burger Guy/git/pjconnolly12/Predictor/project/selections/views.py",
+		"/C/Users/Burger Guy/git/pjconnolly12/Predictor/project/selections/forms.py",
+		"/C/Users/Burger Guy/git/pjconnolly12/Predictor/project/selections/__init__.py",
+		"/C/Users/Burger Guy/git/pjconnolly12/Predictor/project/views.py",
+		"/C/Users/Burger Guy/git/pjconnolly12/Predictor/project/templates/tasks.html",
+		"/C/Users/Burger Guy/git/pjconnolly12/Predictor/project/templates/_base.html",
+		"/C/Users/Burger Guy/git/pjconnolly12/Predictor/project/templates/login.html",
+		"/C/Users/Burger Guy/git/pjconnolly12/Predictor/project/__init__.py",
+		"/C/Users/Burger Guy/git/pjconnolly12/Predictor/run.py",
+		"/C/Users/Burger Guy/git/pjconnolly12/Predictor/project/users/__init__.py",
+		"/C/Users/Burger Guy/git/pjconnolly12/RealPython/flask-bdd/flaskr.py",
+		"/C/Users/Burger Guy/git/pjconnolly12/Flasktaskr/project/static/css/main.css",
+		"/C/Users/Burger Guy/git/pjconnolly12/Flasktaskr/project/templates/login.html",
+		"/C/Users/Burger Guy/git/pjconnolly12/Flasktaskr/project/templates/_base.html",
+		"/C/Users/Burger Guy/git/pjconnolly12/RealPython/flask-bdd/features/steps/auth_steps.py",
+		"/C/Users/Burger Guy/git/pjconnolly12/RealPython/flask-bdd/features/auth.feature",
+		"/C/Users/Burger Guy/git/pjconnolly12/RealPython/flask-bdd/features/environment.py",
+		"/C/Users/Burger Guy/git/pjconnolly12/RealPython/flask-bdd/templates/index.html",
+		"/C/Users/Burger Guy/git/pjconnolly12/RealPython/flask-bdd/app.py",
+		"/C/Users/Burger Guy/git/pjconnolly12/RealPython/flask-bdd/app2.py",
+		"/C/Users/Burger Guy/git/pjconnolly12/RealPython/flask-bdd/templates/main.html",
+		"/C/Users/Burger Guy/git/pjconnolly12/Flasktaskr/.travis.yml",
+		"/C/Users/Burger Guy/git/pjconnolly12/Flasktaskr/project/models.py",
+		"/C/Users/Burger Guy/git/pjconnolly12/Flasktaskr/project/views.py",
+		"/C/Users/Burger Guy/git/pjconnolly12/EPL/project/client/templates/user/login.html",
+		"/C/Users/Burger Guy/git/pjconnolly12/EPL/manage.py",
+		"/C/Users/Burger Guy/git/pjconnolly12/EPL/run.py",
+		"/C/Users/Burger Guy/git/pjconnolly12/EPL/project/server/main/views.py",
+		"/C/Users/Burger Guy/git/pjconnolly12/EPL/project/server/config.py",
+		"/C/Users/Burger Guy/git/pjconnolly12/EPL/project/server/user/views.py",
+		"/C/Users/Burger Guy/git/pjconnolly12/EPL/README.md",
+		"/C/Users/Burger Guy/git/pjconnolly12/EPL/project/server/__init__.py",
+		"/C/Users/Burger Guy/git/pjconnolly12/Flasktaskr/run.py",
+		"/C/Users/Burger Guy/git/pjconnolly12/EPL/project/server/main/__init__.py",
+		"/C/Users/Burger Guy/git/pjconnolly12/EPL/project/client/static/main.css",
+		"/C/Users/Burger Guy/git/pjconnolly12/EPL/project/client/static/main.js",
+		"/C/Users/Burger Guy/git/pjconnolly12/Portfolio/index.html",
+		"/C/Users/Burger Guy/git/pjconnolly12/Flasktaskr/README.md",
+		"/C/Users/Burger Guy/git/pjconnolly12/Discrepancy-Match/README.md",
+		"/C/Users/Burger Guy/git/pjconnolly12/Portfolio/README.md",
+		"/C/Users/Burger Guy/git/pjconnolly12/Profile/project/bootstrap/css/resume.min.css",
+		"/C/Users/Burger Guy/git/pjconnolly12/Profile/project/Profile Page.html",
+		"/C/Users/Burger Guy/git/pjconnolly12/Profile/project/bootstrap/index.html",
+		"/C/Users/Burger Guy/git/pjconnolly12/Profile/project/bootstrap/css/resume.css",
+		"/C/Users/Burger Guy/git/pjconnolly12/Profile/project/style.css",
+		"/C/Users/Burger Guy/git/pjconnolly12/Flasktaskr/project/api/views.py",
+		"/C/Users/Burger Guy/git/pjconnolly12/Flasktaskr/project/__init__.py",
+		"/C/Users/Burger Guy/git/pjconnolly12/Flasktaskr/tests/test_api.py",
+		"/C/Users/Burger Guy/git/pjconnolly12/Flasktaskr/project/_config.py",
+		"/C/Users/Burger Guy/git/pjconnolly12/Flasktaskr/project/api/__init__.py",
+		"/C/Users/Burger Guy/git/pjconnolly12/Flasktaskr/fabfile.py",
+		"/C/Users/Burger Guy/git/pjconnolly12/RealPython/flasktaskr/project/users/views.py",
+		"/C/Users/Burger Guy/git/pjconnolly12/RealPython/flasktaskr/db_create.py",
+		"/C/Users/Burger Guy/git/pjconnolly12/RealPython/flasktaskr/run.py",
+		"/C/Users/Burger Guy/git/pjconnolly12/RealPython/flasktaskr/project/templates/register.html",
+		"/C/Users/Burger Guy/git/pjconnolly12/RealPython/flasktaskr/project/_config.py",
+		"/C/Users/Burger Guy/git/pjconnolly12/RealPython/flasktaskr/project/__init__.py",
+		"/C/Users/Burger Guy/git/pjconnolly12/RealPython/flasktaskr/project/models.py",
+		"/C/Users/Burger Guy/git/pjconnolly12/RealPython/flasktaskr/Procfile",
+		"/C/Users/Burger Guy/git/pjconnolly12/RealPython/flasktaskr/project/views.py",
+		"/C/Users/Burger Guy/git/pjconnolly12/RealPython/flasktaskr/project/users/forms.py",
+		"/C/Users/Burger Guy/git/pjconnolly12/RealPython/flasktaskr/project/forms.py",
+		"/C/Users/Burger Guy/git/pjconnolly12/RealPython/flasktaskr/project/run.py",
+		"/C/Users/Burger Guy/git/pjconnolly12/RealPython/flasktaskr/tests/test_tasks.py",
+		"/C/Users/Burger Guy/git/pjconnolly12/RealPython/flasktaskr/tests/test_main.py",
+		"/C/Users/Burger Guy/git/pjconnolly12/RealPython/flasktaskr/tests/test_users.py",
+		"/C/Users/Burger Guy/git/pjconnolly12/RealPython/flasktaskr/project/templates/404.html",
+		"/C/Users/Burger Guy/git/pjconnolly12/RealPython/flasktaskr/project/templates/500.html",
+		"/C/Users/Burger Guy/git/pjconnolly12/RealPython/flasktaskr/project/tasks/views.py",
+		"/C/Users/Burger Guy/git/pjconnolly12/RealPython/flasktaskr/project/templates/tasks.html",
+		"/C/Users/Burger Guy/git/pjconnolly12/RealPython/flasktaskr/project/templates/_base.html",
+		"/C/Users/Burger Guy/Documents/Web Projects/World Cup/index.html",
+		"/C/Users/Burger Guy/git/pjconnolly12/RealPython/flasktaskr/project/templates/login.html",
+		"/C/Users/Burger Guy/git/pjconnolly12/RealPython/flasktaskr/project/tasks/forms.py",
+		"/C/Users/Burger Guy/git/pjconnolly12/RealPython/flasktaskr/project/db_migrate.py",
+		"/C/Users/Burger Guy/git/pjconnolly12/RealPython/flasktaskr/project/test_users.py",
+		"/C/Users/Burger Guy/git/pjconnolly12/RealPython/flasktaskr/project/test_tasks.py",
+		"/C/Users/Burger Guy/git/pjconnolly12/RealPython/flasktaskr/project/db_create.py",
+		"/C/Users/Burger Guy/git/pjconnolly12/RealPython/.gitignore",
+		"/C/Users/Burger Guy/git/pjconnolly12/RealPython/flasktaskr/.gitignore",
+		"/C/Users/Burger Guy/git/pjconnolly12/.gitignore",
+		"/C/Users/Burger Guy/git/pjconnolly12/Python.gitignore",
+		"/C/Users/Burger Guy/git/pjconnolly12/LearnPython/Weather_App/main.py",
+		"/C/Users/Burger Guy/git/pjconnolly12/LearnPython/Weather_App/static/style.css",
+		"/C/Users/Burger Guy/git/pjconnolly12/LearnPython/Weather_App/templates/result.html",
+		"/C/Users/Burger Guy/git/pjconnolly12/LearnPython/Weather_App/templates/weather.html",
+		"/C/Users/Burger Guy/git/pjconnolly12/LearnPython/Weather_App/weather.py",
+		"/C/Users/Burger Guy/git/pjconnolly12/RealPython/flasktaskr/bin/project/forms.py",
+		"/C/Users/Burger Guy/git/pjconnolly12/RealPython/flasktaskr/bin/project/views.py",
+		"/C/Users/Burger Guy/git/pjconnolly12/RealPython/flasktaskr/bin/project/templates/register.html",
+		"/C/Users/Burger Guy/git/pjconnolly12/RealPython/flasktaskr/bin/project/test.py",
+		"/C/Users/Burger Guy/git/pjconnolly12/RealPython/flasktaskr/bin/project/templates/login.html",
+		"/C/Users/Burger Guy/git/pjconnolly12/RealPython/flasktaskr/bin/project/static/css/main.css",
+		"/C/Users/Burger Guy/git/pjconnolly12/RealPython/flasktaskr/bin/project/templates/tasks.html",
+		"/C/Users/Burger Guy/git/pjconnolly12/RealPython/flasktaskr/bin/project/templates/_base.html",
+		"/C/Users/Burger Guy/git/pjconnolly12/RealPython/flasktaskr/bin/project/models.py",
+		"/C/Users/Burger Guy/git/pjconnolly12/RealPython/flasktaskr/bin/project/_config.py",
+		"/C/Users/Burger Guy/git/pjconnolly12/RealPython/flasktaskr/bin/project/db_migrate.py",
+		"/C/Users/Burger Guy/git/pjconnolly12/RealPython/flasktaskr/bin/project/db_create.py",
+		"/C/Users/Burger Guy/git/pjconnolly12/Profile Page.html",
+		"/C/Users/Burger Guy/git/pjconnolly12/Discrepancy-Match/Discrepancy Match Tool.py",
+		"/C/Users/Burger Guy/git/pjconnolly12/LearnPython/Interactive-dictionary.py",
+		"/C/Users/Burger Guy/git/pjconnolly12/LearnPython/Interactive-Dictionary",
+		"/C/Users/Burger Guy/git/pjconnolly12/RealPython/flasktaskr/bin/project/run.py",
+		"/C/Users/Burger Guy/git/pjconnolly12/RealPython/flask-blog/bin/blog.py",
+		"/C/Users/Burger Guy/git/pjconnolly12/RealPython/flask-blog/bin/static/css/style.css",
+		"/C/Users/Burger Guy/git/pjconnolly12/RealPython/Debugging/pdb_ex.py",
+		"/C/Users/Burger Guy/git/pjconnolly12/RealPython/flask-blog/bin/templates/login.html",
+		"/C/Users/Burger Guy/git/pjconnolly12/RealPython/flask-blog/bin/templates/template.html"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"row",
+			"if row[0] in node[11]:\n\t\t\t\t\t\tif row[53] == node[4]:\n\t\t\t\t\t\t\tif row[54] == node[5]:\n\t\t\t\t\t\t\t\tmatches.append([\"Yes\", row[45], row[6], row[7], row[0], row[42], row[17], row[5], row[53], row[54], row[3]])\n\t\t\t\t\t\t\t\tmatch_count += 1\n\t\t\tif match_count == 0:\n\t\t\t\tmatches.append([\"No\", row[45], row[6], row[7], row[0], row[42], row[17], row[5], row[53], row[54], row[3]])"
+		],
+		"highlight": true,
+		"in_selection": true,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"copy_req[i]"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.537335285505,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 32.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "hello-world-project.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
